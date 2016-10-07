@@ -1,0 +1,17 @@
+
+
+===>Request
+
+    ===> Autentica Usuário
+        token=
+        email=
+
+        appKey=
+        appId=
+        appCode=
+
+        X-User-Id: 15555
+        X-App-Id: 66666
+        X-App-Intermediated: false
+        ====>
+
